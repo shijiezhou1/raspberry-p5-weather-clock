@@ -10,6 +10,8 @@ The project is to show you how to create a weather application in raspberry pi w
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
+Demo Link: [Weather-Clock-Raspberry-P5](https://shijiezhou1.github.io/raspberry-p5-weather-clock/)
+
 ## Requirement
 
 - [Raspberry Pi](#Raspberry-Pi)
